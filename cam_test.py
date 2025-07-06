@@ -16,7 +16,7 @@ from datetime import datetime
 
 # Configuration
 CAMERA_WIDTH = 640
-CAMERA_HEIGHT = 480
+CAMERA_HEIGHT = 360
 CAMERA_FPS = 30
 VIDEO_DIR = "./videos"
 
